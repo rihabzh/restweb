@@ -1,5 +1,5 @@
 # Ex.07 Restaurant Website
-## Date:
+## Date:23-12-2025
 
 ## AIM:
 To develop a static Restaurant website to display the food items and services provided by them.
@@ -28,9 +28,17 @@ Validate the HTML code.
 Publish the website in the given URL.
 
 ## PROGRAM:
+```
+idex.html
+
+```
+
 
 
 ## OUTPUT:
+![alt text](<Screenshot 2025-12-23 094707.png>) 
+![alt text](<Screenshot 2025-12-23 094733.png>) 
+![alt text](<Screenshot 2025-12-23 094805.png>)
 
 
 ## RESULT:
